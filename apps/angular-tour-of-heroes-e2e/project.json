@@ -1,0 +1,10 @@
+{
+  "name": "angular-tour-of-heroes-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/angular-tour-of-heroes-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["angular-tour-of-heroes"],
+  "// targets": "to see all targets run: nx show project angular-tour-of-heroes-e2e --web",
+  "targets": {}
+}
